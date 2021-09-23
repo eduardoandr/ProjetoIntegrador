@@ -1,5 +1,3 @@
-# ProjetoIntegrador
-Projeto integrador feito no bootcamp Generation
+# Projeto integrador realizado no bootcamp Generation
 
-Projeto feito em grupo de 6 pessoas <br>
-O projeto foi feito com intuito de criar uma rede social relacionada a ODS 7
+Feito com intuito de criar uma rede social relacionada a ODS 7
